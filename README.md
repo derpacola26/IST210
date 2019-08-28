@@ -1,1 +1,1 @@
-# IST210
+# These are Jupyter Notebooks for the IST210 courses. 
